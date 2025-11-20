@@ -50,6 +50,8 @@ section {
 
 a {
     text-decoration: none;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 h1, h2, h3 {
@@ -64,8 +66,7 @@ h1, h2, h3 {
 .header-container {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
 }
 
 .header-nav {
