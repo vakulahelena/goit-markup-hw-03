@@ -64,8 +64,8 @@ h1, h2, h3 {
 .header-container {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .header-nav {
@@ -86,7 +86,7 @@ h1, h2, h3 {
 
 .header-logo {
     margin-right: 76px;
-    /* padding: 24px 0; */
+    padding: 24px 0;
 }
 
 .header-logo .logo-part {
@@ -213,7 +213,7 @@ h1, h2, h3 {
     color: #434455;
 }
 
-.container.team {
+.team-page {
     background-color: #f4f4fd;
     /* max-width: 1440px; */
 }
@@ -305,7 +305,7 @@ h1, h2, h3 {
 
 .card-item {
 
-    background: var#fff;
+    background: #fff;
     border: 1px solid #e7e9fc;
     max-width: 360px;
 
