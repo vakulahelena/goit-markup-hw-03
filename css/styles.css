@@ -180,11 +180,6 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-
-/* .container.features {
-    padding: 120px 0;
-} */
-
 .features-list {
     display: flex;
     gap: 24px;
@@ -193,8 +188,6 @@ h1, h2, h3 {
 .features-title {
     font-weight: 500;
     font-size: 20px;
-
-    /* line-height: 24px; */
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -206,8 +199,6 @@ h1, h2, h3 {
 .features-description {
     
     font-size: 16px;
-
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -215,7 +206,7 @@ h1, h2, h3 {
 
 .team-page {
     background-color: #f4f4fd;
-    /* max-width: 1440px; */
+
 }
 
 .team-list {
@@ -224,7 +215,6 @@ h1, h2, h3 {
     justify-content: space-between;
     align-items: flex-end;
     gap: 24px;
-    /* width: calc((100%-72px)/4); */
     
 } 
 
@@ -264,7 +254,7 @@ h1, h2, h3 {
 .team-description {
 
     font-size: 16px;
-    /* line-height: 24px; */
+
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
@@ -273,12 +263,7 @@ h1, h2, h3 {
 
 .container.card-content {
 
-    width: 232px;
-    /* display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    gap: 8px; */
+  
     padding: 32px 0;
     margin: 0 auto;
 }
@@ -319,11 +304,6 @@ h1, h2, h3 {
     max-width: 360px;
     padding: 32px 16px;
 
-    /* display: flex;
-    align-items: flex-start;
-    justify-content: center;
-    flex-direction: column;
-    gap: 8px; */
 }
 
 .card-title {
@@ -338,8 +318,6 @@ h1, h2, h3 {
 .card-text {
     
     font-size: 16px;
-
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -354,13 +332,9 @@ h1, h2, h3 {
 }
 
 .container.footer {
-    /* display: flex;
-    gap: 16px;
-    flex-direction: column; */
     max-width: 1158px;
     padding: 0;
     margin-right: auto;
-
 }
 
 .footer-logo {
